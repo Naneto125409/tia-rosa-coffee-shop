@@ -38,13 +38,12 @@ Este projeto foi baseado no esqueleto desenvolvido no **ADS09**, onde foram apli
 ## 👩‍🎓 Sobre o Desenvolvedor
 
 **Naneto Almeida da Silva**
-
-Estudante de Análise e Desenvolvimento de Sistemas (IESB), com certificações em:
+graduado em Análise e Desenvolvimento de Sistemas (IESB), com certificações em:
 
 - SQL (Fundação Bradesco)
 - Power BI (Udemy)
 - JavaScript, React, Node.js (Udemy)
-- Excel, PowerPoint e diversos outros pela Fundação Bradesco e plataforma DMAI
+- Excel, PowerPoint e diversos outros pela Fundação Bradesco e plataforma UDEMY
 
 🔗 [LinkedIn](https://www.linkedin.com/in/naneto-almeida-da-silva-209298291)  
 🐙 [GitHub](https://github.com/Naneto125409)
